@@ -1,3 +1,5 @@
+// code studio question
+
 int findUnique(int *arr, int size)
 {
     int ans = 0;
